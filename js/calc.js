@@ -8,5 +8,6 @@ var num2 = $('#number2')
 var result = $('#result')
 
 $('#equals').click(function(){
-  result.html()
+  result.show()
 })
+
