@@ -1,6 +1,9 @@
 //add your code here
-$('number1')
+$('number1').
+
+$('operation')
 
 $('number2')
 
 $('result')
+
