@@ -1,9 +1,9 @@
 //add your code here
-$('number1').
+var num1 = $('number1')
 
-$('operation')
+var operation = $('operation')
 
-$('number2')
+var num2 = $('number2')
 
-$('result')
+var result = $('result')
 
