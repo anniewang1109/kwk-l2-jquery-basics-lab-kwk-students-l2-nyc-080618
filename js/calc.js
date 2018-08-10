@@ -1,9 +1,10 @@
 //add your code here
-var num1 = $('number1')
+var num1 = $('#number1')
 
-var operation = $('operation')
+var operation = $('#operation')
 
-var num2 = $('number2')
+var num2 = $('#number2')
 
-var result = $('result')
+var result = $('#result')
 
+$('#equal')
